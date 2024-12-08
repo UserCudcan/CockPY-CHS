@@ -50,3 +50,16 @@ CBT2 PS 的公共和开源版本我正在开发。
 
 # 积分（机翻）
 [timing1337](https://github.com/timing1337) 的 [saturnine](https://github.com/timing1337/saturnine) 作为 PS 的基础。没有你，我不会制作CockPY，因为太懒了
+
+# 感谢
+[timing1337](https://github.com/timing1337)
+[DiXiaoO](https://github.com/DiXiaoO)
+[lilmayofuksu](https://github.com/lilmayofuksu)
+[wiors](https://github.com/wiors)
+[LDAsuku](https://github.con/LDAsuku)
+[busya1337](https://github.com/busya1337)
+
+[Hiro420](https://github.com/Hiro420))
+[akioukun](https://github.com/akioukun)
+[Zhaokugua](https://github.com/Zhaokugua)
+[AZthemute](https://github.com/AZthemute)
