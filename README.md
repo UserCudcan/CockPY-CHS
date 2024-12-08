@@ -1,6 +1,8 @@
 # CockPY
 CBT2 PS 的公共和开源版本我正在开发。
 
+[简中](README.md) | [EN](README-ENG.md)
+
 # 依赖:
 - [Python 3](https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe)
 - [git](https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe)
