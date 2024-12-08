@@ -6,7 +6,7 @@ CBT2 PS 的公共和开源版本我正在开发。
 - [git](https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe)
 
 ## 安装:
-(Manual)
+（手动）
 - `pip install -r ./requirements.txt`
 
 - `git clone https://github.com/lilmayofuksu/pyenet --recursive && cd pyenet`
@@ -39,7 +39,7 @@ CBT2 PS 的公共和开源版本我正在开发。
 # 严重错误：
 - 某些传送点可能会导致您的角色卡住
 
-# MAP COMMANDS:
+# 地图指令:
 
 任务图标 - 生成怪物，示例：`spawn 21010101`
 
@@ -48,5 +48,5 @@ CBT2 PS 的公共和开源版本我正在开发。
 花朵图标 - TP 到场景，示例：'31204' （只需输入场景 ID，它会自行找到正确的 POS）
 
 
-# CREDITS
+# 积分（机翻）
 [timing1337](https://github.com/timing1337) 的 [saturnine](https://github.com/timing1337/saturnine) 作为 PS 的基础。没有你，我不会制作CockPY，因为太懒了
