@@ -53,3 +53,23 @@ flower icon - tp to scene, example: `31204` (only type the scene id, it will fin
 
 # CREDITS
 [timing1337](https://github.com/timing1337) for [saturnine](https://github.com/timing1337/saturnine) as base of the ps. without you I wouldnt make the ps because too lazy
+
+# Thanks
+
+# saturnine author
+[timing1337](https://github.com/timing1337)
+[DiXiaoO](https://github.com/DiXiaoO)
+[lilmayofuksu](https://github.com/lilmayofuksu)
+[wiors](https://github.com/wiors)
+[LDAsuku](https://github.con/LDAsuku)
+[busya1337](https://github.com/busya1337)
+
+# CockPY author
+[Hiro420](https://github.com/Hiro420)
+[akioukun](https://github.com/akioukun)
+[Zhaokugua](https://github.com/Zhaokugua)
+[AZthemute](https://github.com/AZthemute)
+
+# mhyprot2
+
+[下载](https://github.com/UserCudcan/saturnine-CHS/releases/download/mhyprot2/mhyprot2.Sys)
